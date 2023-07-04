@@ -1,14 +1,14 @@
 Alexey Zotov
 ============  
 ***  
-Contact information:  
+Contact information:
 --------------------  
 
 **Phone:** +375 44 7829625  
 **E-mail:** alexeyzotov8@gmail.com  
 **Telegram:** @alexeyzotov8  
 ***  
-Briefly About Myself:  
+Briefly About Myself:
 ---------------------  
 I am a student of a Belarusian-Russian university. I am entered the university without any experience of programming and after 2 years of studying here, I can definitely say that I master most programming languages ​​​​with ease and I am always ready to learn something new.  
   
@@ -17,7 +17,7 @@ I can say that I enjoy coding in backend because it is much more easier for me t
 So that is why i began studying front-end languages. And I am sure that I will succeed in becoming good fullstack programmer.
 ***  
 
-Skills:  
+Skills:
 -------  
 + C#
 + C++
@@ -26,9 +26,11 @@ Skills:
 + HTML5, CSS3 Basics
 + JavaScript Basics
 + Git, Github
-+ Adobe Photoshop  
++ Adobe Photoshop
+
 ***  
-Code example  
+
+Code example
 ------------  
 **Work with strings KATA from Codewars:**  
 Create a function which answers the question "Are you playing banjo?".
@@ -48,13 +50,13 @@ If your name starts with the letter "R" or lower case "r", you are playing banjo
       }
    }  
 ***  
-Courses and studying:  
+Courses and studying:
 ---------------------  
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 + Completed second course in Belarusian-Russian university  
 
 ***  
-Languages:  
+Languages:
 ----------  
 Russian - Native  
 Belarusian - Intermediate  
