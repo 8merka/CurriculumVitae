@@ -57,6 +57,6 @@ Courses and studying:
 Languages:
 ----------
 Russian - Native  
-Belarusian - Intermediate 
+Belarusian - Intermediate  
 English - C1 Advanced(according to the online test at www.efset.org)  
 ![image](https://github.com/8merka/rsschool-cv/assets/93433900/496d18b9-cc9f-4f09-827f-52a0f6e8d480)
